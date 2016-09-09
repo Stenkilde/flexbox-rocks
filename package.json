@@ -25,8 +25,7 @@
     "grunt-concurrent": "^2.0.3",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-postcss": "^0.8.0",
-    "load-grunt-tasks": "^3.5.2",
-    "postcss-import": "^8.1.2"
+    "load-grunt-tasks": "^3.5.2"
   },
   "homepage": "https://github.com/Stenkilde/flexbox-rocks#readme"
 }
