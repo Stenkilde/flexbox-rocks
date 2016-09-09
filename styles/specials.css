@@ -1,0 +1,24 @@
+.mirror {
+    display: inline-block;
+    transform: scale(-1, 1);
+}
+
+.yellow {
+    color: yellow;
+}
+
+.brown {
+    color: brown;
+}
+
+.grey {
+    background: #4a4a4a;
+}
+
+.light-grey {
+    background: #9b9b9b;
+}
+
+.orange {
+    background: #f5a623;
+}

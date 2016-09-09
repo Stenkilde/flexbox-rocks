@@ -3,9 +3,7 @@
 	height: 450px;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 	background: #7dbafc;
-}
-
-.inner-hero {
-
+	font-family: sans-serif;
 }

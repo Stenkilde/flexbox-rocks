@@ -1,0 +1,17 @@
+.section {
+    display: flex;
+    flex-flow: wrap;
+    height: 450px;
+    margin: 0 auto;
+}
+
+.inner-section {
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+}
+
+.centered {
+    justify-content: center;
+    align-items: center;
+}
