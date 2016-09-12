@@ -1,0 +1,16 @@
+.form-wrapper {
+}
+
+.form-wrapper h2 {
+    color: #000;
+}
+
+.input-control {
+    display: flex;
+}
+
+button {
+    border-radius: 0;
+    border: 0;
+    color: #000;
+}
