@@ -1,0 +1,9 @@
+.hero {
+	display: flex;
+	height: 450px;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background: #7dbafc;
+	font-family: sans-serif;
+}

@@ -1,0 +1,17 @@
+.sticky-wrapper {
+    display: flex;
+    flex-flow: wrap column;
+    height: 100vh;
+}
+
+.sticky-wrapper .scroll-view {
+    margin: 0 auto;
+    width: 960px;
+    flex: 1 auto;
+    background: peru;
+}
+
+.sticky-wrapper .footer {
+    height: 100px;
+    background: pink;
+}

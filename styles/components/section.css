@@ -1,0 +1,35 @@
+.section {
+    display: flex;
+    flex-flow: wrap;
+    height: 450px;
+    margin: 0 auto;
+}
+
+.inner-section {
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.inner-section li {
+    text-align: center;
+}
+
+.inner-section a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    height: 250px;
+    width: 250px;
+    background: #ccc;
+    text-decoration: none;
+}
+
+.centered {
+    justify-content: center;
+    align-items: center;
+}
