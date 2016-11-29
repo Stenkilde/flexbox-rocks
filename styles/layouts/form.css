@@ -9,6 +9,11 @@
     display: flex;
 }
 
+input {
+    max-width: 200px;
+    flex: 1;
+}
+
 button {
     border-radius: 0;
     border: 0;
